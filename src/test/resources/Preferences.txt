@@ -1,0 +1,23 @@
+{
+  "Preferences": {
+	"BROWSER_TYPE": "CHROME",
+	"ENVIRONMENT": "DEVTEST",
+	"VIEWONLY_USER_NAME":"SCkitu2@gmail.com",
+	"VIEWONLY_PASSWORD":"SCkitu2@35470",
+	"EDIT_USER_NAME":"Sahana.v@cerner.com",
+	"EDIT_PASSWORD":"SCkitu2@35470",
+	"ALM_USER_NAME":"SC035470",
+	"ALM_PASSWORD":"noV@2017",
+	"ALM_DOMAIN":"IP",
+	"ALM_PROJECT":"TD_VALIDATION_TESTS",
+	"ALM_HOST":"qualitycenter.cerner.com",
+	"JIRA_UPDATE":"YES",
+	"JIRA_HOST:"jira2crt.cerner.com",
+	"JIRA_USER_NAME":"SK054116",
+	"JIRA_PASSWORD":"Test@12345",
+	"JIRA_PROJECT":"REVCYCLECM",
+	"JIRA_SOLUTION_NAME":"Cerner Contract Management",
+	"ALWAYS_CREATE_NEW_JIRA":"No",
+	"REPORT_FORMAT:"HTML"
+     }
+}

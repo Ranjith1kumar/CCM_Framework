@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="configuration.CodeMaintenance"/>
+      <class name="configuration.ProviderGroupings"/>
+      <class name="configuration.UserGroups"/>
+      <class name="analytics.Reports"/>
+      <class name="contractManagement.Codes"/>
+      <class name="contractManagement.Contracts"/>
+      <class name="contractManagement.Models"/>
+      <class name="contractManagement.PPS"/>
+      <class name="contractManagement.RateSheets"/>
+      <class name="contractManagement.Repricing"/>
+      <class name="contractManagement.Schedules"/>
+      <class name="contractManagement.TestPrice"/>
+      <class name="testPriceWorkFlows.TestPriceScenarios"/>
+    </classes>
+  </test> <!-- Test -->
+</suite><!-- Suite -->
